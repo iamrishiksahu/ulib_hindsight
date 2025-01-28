@@ -1,0 +1,13 @@
+logs
+logs
+__pycache__
+outputs
+Lib
+Include
+shares
+Scripts
+*.log
+pyvenv.cfg
+.env
+installed_requirements.txt
+tokens
